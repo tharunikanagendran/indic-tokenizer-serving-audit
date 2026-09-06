@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LLM Tokenizer & Serving Capacity Audit
 
 **Submission Repo for AI Team Intern Assignment — The Audit**  
@@ -108,3 +109,6 @@ python your-submission/partA/corrected_analysis.py
 - **Tokenizer Memo**: [`partA/memo.md`](partA/memo.md)
 - **Capacity Report**: [`partB/capacity_reconciliation.md`](partB/capacity_reconciliation.md)
 - **Decision Memo**: [`partC/memo.md`](partC/memo.md)
+=======
+# indic-tokenizer-serving-audit
+>>>>>>> 11334fcdeb255ffeabd997838c23cb8d6cec8663
